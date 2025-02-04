@@ -1,4 +1,5 @@
-# This is like a "<h1>" smallest
+# This is like a comment
+"<h1>" This is a header comment
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
