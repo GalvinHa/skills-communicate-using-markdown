@@ -1,4 +1,4 @@
-# This is like a comment '<h1>' This is a header comment
+# This is like a comment <h1> This is a header comment
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
